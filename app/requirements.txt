@@ -1,0 +1,7 @@
+customtkinter
+keyboard
+pystray
+Pillow
+pyserial
+pycaw
+comtypes
